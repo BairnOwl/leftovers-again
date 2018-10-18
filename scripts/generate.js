@@ -12,6 +12,7 @@ const formatsWithTeams = ['gen7anythinggoes',
   'gen7ru',
   'gen7nu',
   'gen7lc',
+  'gen7vgc2019sunseries'
 ];
 
 // formats without teams, plus the above
